@@ -16,18 +16,19 @@ SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 idea，vscode，navicat
 
 ### 系统截图：
-![登录](img/image.png)
-![首页](img/image1.png)
-![律师](img/image2.png)
-![律师详情](img/image3.png)
-![咨询](img/image4.png)
-![咨询](img/image5.png)
-![问答](img/image6.png)
-![法律知识](img/image7.png)
-![知识详情](img/image8.png)
-![个人中心](img/image9.png)
-![律师中心](img/image10.png)
-![后台](img/image11.png)
+![image](https://github.com/user-attachments/assets/c2ff869b-91ce-4a2a-aff6-bd87fe51d2b6)
+![image](https://github.com/user-attachments/assets/4fdb3852-795d-42c5-9812-c5026e1a10b3)
+![image](https://github.com/user-attachments/assets/54db00dd-6f1f-44f3-a291-6d954b9eb280)
+![image](https://github.com/user-attachments/assets/52d0765e-916d-461b-9e46-b1fcfa55e124)
+![image](https://github.com/user-attachments/assets/ff48ab5a-f062-4185-a114-7f1b070fb6b8)
+![image](https://github.com/user-attachments/assets/55adc608-8829-4793-a007-8dfc796265b1)
+![image](https://github.com/user-attachments/assets/a6ec5c37-8dba-428f-a725-8018adb24984)
+![image](https://github.com/user-attachments/assets/8c18d621-8a0c-4314-aa25-b54c9a196994)
+![image](https://github.com/user-attachments/assets/955f7e2d-12a6-4a41-a039-8ce79e3bc2cf)
+![image](https://github.com/user-attachments/assets/1ab882d4-d31d-4922-9104-5e883322900b)
+![image](https://github.com/user-attachments/assets/5b0d2486-1b56-41a0-893a-52c95a120b5c)
+![image](https://github.com/user-attachments/assets/25ad9dbc-256f-4fa0-a39d-93928ca1dae9)
+
 
 **有问题可以咨询企鹅Q1760272627** 
 
