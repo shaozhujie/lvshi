@@ -1,7 +1,9 @@
 # lvshi基于SpringBoot+Vue的律师咨询与推荐系统的设计与实现
 
-**有问题可以咨询QQ1760272627** 
+**获取源码数据库等请加QQ1760272627** 
+
 **系统演示视频** ：https://www.bilibili.com/video/BV1dt421V7c2/?vd_source=5f273f72fd3dc593e25c33cbccdad12e
+
 ### 功能：
 用户：登录、注册、忘记密码、首页、找律师、法律咨询、法律问答、法律知识、在线咨询、律师评价、律师详情、问答详情、法律知识详情、个人中心
 
@@ -15,5 +17,5 @@ SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 ### 工具：
 idea，vscode，navicat
 
-**有问题可以咨询QQ1760272627** 
+**获取源码数据库等请加QQ1760272627** 
 
